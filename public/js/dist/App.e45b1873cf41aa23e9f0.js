@@ -244,6 +244,8 @@ function TodoList(_ref) {
 
 
 
+// import { BrowserRouter as Router } from "react-router-dom"; 
+
 const root = (0,react_dom_client__WEBPACK_IMPORTED_MODULE_1__.createRoot)(document.getElementById("app"));
 root.render( /*#__PURE__*/React.createElement(react__WEBPACK_IMPORTED_MODULE_0__.StrictMode, null, /*#__PURE__*/React.createElement(_App__WEBPACK_IMPORTED_MODULE_2__["default"], null)));
 
@@ -620,4 +622,4 @@ var update = _node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js
 /******/ 	
 /******/ })()
 ;
-//# sourceMappingURL=App.afd18869c1f3b91a5b4d7475599d9b7c.js.map
+//# sourceMappingURL=App.aef6b254010e68430bb07da3634df880.js.map
